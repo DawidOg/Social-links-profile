@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/DawidOg/Social-links-profile)
-- Live Site URL: [Add live site URL here](sage-douhua-4283cd.netlify.app)
+- Live Site URL: [Add live site URL here](https://ornate-sunflower-03dc9e.netlify.app)
 
 ## My process
 
