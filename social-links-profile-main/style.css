@@ -1,0 +1,120 @@
+@font-face {
+    font-family: InterVariable;
+    src: url("/assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+@font-face {
+    font-family: InterRegular;
+    src: url("/assets/fonts/static/Inter-Regular.ttf");
+    font-weight: 400;
+    font-size: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: InterSemiBold;
+    src: url("/assets/fonts/static/Inter-SemiBold.ttf");
+    font-weight: 600;
+    font-size: normal;
+    font-display: swap;
+
+}
+
+@font-face {
+    font-family: InterBold;
+    src: url("/assets/fonts/static/Inter-Bold.ttf");
+    font-weight: 700;
+    font-size: normal;
+    font-display: swap;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: InterVariable;
+    background-color: hsl(0, 0%, 8%);
+}
+
+#card {
+    width: 350px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: hsl(0, 0%, 12%);
+    color: white;
+}
+
+#personal-info-el {
+    margin-top: 20px;
+}
+
+#personal-info-el h1{
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+#info-el {
+    font-weight: 200;
+}
+
+#city-el {
+    color: hsl(75, 94%, 57%);
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+
+#personal-info-el p {
+    font-size: 14px;
+}
+
+
+#personal-info-el img { 
+    width: 85px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#links-el {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#links-el a {
+    font-family: InterVariable;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border: none;
+    margin: 10px 20px;
+    padding: 15px;
+    width: 275px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+#links-el a:hover {
+    cursor: pointer;
+    background-color: gray;
+}
+
+footer{
+    display: block;
+}
+
+
+.attribution { 
+    font-size: 0.6875rem; text-align: center; 
+}
+    
+.attribution a { 
+    color: hsl(75, 94%, 57%);
+}
