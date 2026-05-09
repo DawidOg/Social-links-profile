@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DawidOg/Social-links-profile)
-- Live Site URL: [Add live site URL here](https://ornate-sunflower-03dc9e.netlify.app)
+- Solution URL: [https://github.com/DawidOg/Social-links-profile](https://github.com/DawidOg/Social-links-profile)
+- Live Site URL: [https://ornate-sunflower-03dc9e.netlify.app](https://ornate-sunflower-03dc9e.netlify.app)
 
 ## My process
 
